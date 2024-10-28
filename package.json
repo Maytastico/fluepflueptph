@@ -1,7 +1,21 @@
 {
   "name": "fluepflueptph",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "description": "Fancy Frontend for Flipdot display",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maytastico/fluepflueptph.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maytastico/fluepflueptph/issues"
+  },
+  "homepage": "https://github.com/Maytastico/fluepflueptph#readme",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
